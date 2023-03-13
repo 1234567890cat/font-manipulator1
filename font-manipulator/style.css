@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/627/992/original/pattern-with-line-hand-drawn-doodle-lovely-cat-background-doodle-funny-handmade-vector-illustration.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+#copy_right_footer 
+{
+position: fixed;
+bottom: 0;
+background-color: grey;
+color: white;
+line-height: 3;
+width: 100%;
+}
